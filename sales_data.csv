@@ -1,0 +1,11 @@
+Order ID,Order Date,Region,Customer Name,Product Name,Category,Sales,Profit,Quantity
+CA-2017-100006,06-01-2017,West,Sarah,Binders,Office Supplies,261.96,41.91,2
+CA-2017-100028,07-01-2017,East,John,Chairs,Furniture,731.94,219.58,3
+CA-2017-100042,10-01-2017,Central,Emily,Phone,Technology,14.62,6.87,2
+CA-2017-100073,11-01-2017,South,Aryan,Paper,Office Supplies,957.58,-383.03,5
+CA-2017-100128,14-01-2017,West,Karan,Laptop,Technology,22.37,5.35,1
+CA-2017-100233,10-02-2017,East,Simran,Table,Furniture,48.86,14.77,7
+CA-2017-100289,14-02-2017,Central,Neha,Phone,Technology,7.28,1.96,8
+CA-2017-100303,17-02-2017,South,Vinay,Binder,Office Supplies,907.15,90.78,6
+CA-2017-100437,01-03-2017,West,Pooja,Chair,Furniture,65.38,16.49,2
+CA-2017-100533,05-03-2017,East,Sahil,Speaker,Technology,89.03,34.25,3
